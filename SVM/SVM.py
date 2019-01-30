@@ -1,6 +1,6 @@
 '''
 Data:20181224
-Author:Jason
+Author:NLPxiaoxu
 Algorithm:SVM
 
 '''
