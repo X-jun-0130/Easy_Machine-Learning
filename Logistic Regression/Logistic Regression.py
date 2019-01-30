@@ -1,6 +1,6 @@
 '''
 Data:20181211
-Author:Jason
+Author:NLPxiaoxu
 Algorithm:Logistic Regression
 
 '''
