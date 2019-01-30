@@ -6,5 +6,5 @@
 # 2 Logistic Regression
 numpy实现/tensorflow实现
 
-# SVM
+# 3 SVM
 numpy实现支持向量机
